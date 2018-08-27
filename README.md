@@ -1,2 +1,2 @@
 # puppeteer-playground
-Some demso to test Puppeteer features
+Some demos to test Puppeteer features

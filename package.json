@@ -1,0 +1,25 @@
+{
+  "name": "puppeteer-playground",
+  "version": "1.0.0",
+  "description": "Demos of Puppeteer features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcfeoh/puppeteer-playground.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Alain Chautard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alcfeoh/puppeteer-playground/issues"
+  },
+  "homepage": "https://github.com/alcfeoh/puppeteer-playground#readme",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}
