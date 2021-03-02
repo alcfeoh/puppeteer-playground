@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/alcfeoh/puppeteer-playground#readme",
   "dependencies": {
-    "puppeteer": "^1.7.0"
+    "puppeteer": "^1.13.0"
   }
 }
